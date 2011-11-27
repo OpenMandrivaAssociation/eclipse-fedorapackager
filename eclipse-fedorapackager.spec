@@ -3,7 +3,7 @@
 
 Name:           eclipse-fedorapackager
 Version:        0.1.12
-Release:        1
+Release:        3
 Summary:        Fedora Packager Tools
 
 Group:          Development/Java
