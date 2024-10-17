@@ -8,7 +8,7 @@ Summary:        Fedora Packager Tools
 
 Group:          Development/Java
 License:        EPL
-URL:            http://fedorahosted.org/eclipse-fedorapackager
+URL:            https://fedorahosted.org/eclipse-fedorapackager
 # Tar file generated from Git repository (tag 0.1.12)
 # by:
 #   bash get-eclipse-fedorapackager-sources.sh 0.1.12
